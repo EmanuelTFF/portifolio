@@ -19,16 +19,15 @@ Olá! Eu sou Gabriel, desenvolvedor de software com experiência em diversas tec
 
 ## Habilidades
 
-- **Linguagens de Programação:** PHP, JavaScript, Python, Java
-- **Frameworks e Bibliotecas:** Laravel, React, Django, Spring Boot
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **Ferramentas e Plataformas:** Git, Docker, AWS, Jenkins
-- **Outras:** HTML, CSS, RESTful APIs, Metodologias Ágeis (Scrum, Kanban)
+- **Linguagens de Programação:** PHP, JavaScript, Python, C++
+- **Frameworks e Bibliotecas:** React
+- **Banco de Dados:** MySQL
+- **Ferramentas e Plataformas:** Git
+- **Outras:** HTML, CSS, RESTful APIs
 
 ## Projetos
 
-### [Projeto 1: Sistema de Gerenciamento de Tarefas](https://github.com/usuario/projeto1)
-Desenvolvi um sistema completo para gerenciamento de tarefas usando Laravel e Vue.js. O sistema permite a criação, edição e exclusão de tarefas, além de notificações e relatórios de produtividade.
+### [Projeto 1: Sonnus](sonnus.vercel.app)
 
 ### [Projeto 2: Aplicativo de Previsão do Tempo](https://github.com/usuario/projeto2)
 Criei um aplicativo de previsão do tempo utilizando React Native e a API OpenWeatherMap. O app fornece previsões em tempo real e alertas meteorológicos para diversas cidades.
